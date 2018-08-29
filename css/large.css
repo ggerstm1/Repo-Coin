@@ -1,0 +1,75 @@
+@media only screen and (min-width: 813px) and (max-width: 1185px) {
+
+
+
+h1{
+  font-size:50px;
+}
+
+#big{
+  font-size: 72px;
+
+}
+
+h2 {
+	margin-top: 20px;
+	font-size:30px;
+	padding: 0;
+
+}
+
+
+
+}
+
+/*MAIN INFORMATION
+------------------*/
+
+
+.content-wrap-paragraph {
+	max-width: 1900px;
+	margin: 0 auto;
+	margin-right:100px;
+}
+
+
+.col_left {
+	width: 100%;
+	float: clear;
+}
+
+
+.maininfo {
+	background-image: none;
+	overflow: hidden;
+	padding:150px 0px 0px 20px;
+	background-size: cover;
+	height: 520px;
+}
+
+.maininfo_secondsection {
+	overflow: auto;
+	padding:130px 100px 0px 70px;
+	background-image: url(../images/index_secondsection_gradient3.jpg);
+	background-position: center;
+	height: 520px;
+	background-clip:inherit;
+	background-size: cover;
+
+}
+
+.maininfo_thirdsection {
+	background-image: none;
+	background-clip:inherit;
+	background-size: cover;
+	background-position: center;
+	padding:120px 0px 0px 70px;
+	background-size: cover;
+	height: 520px;
+}
+
+#allfooter{
+	display: block;
+	width:95%;
+	margin:0 auto;
+}
