@@ -13,7 +13,6 @@
   margin:auto;
   display:block;
 }
-
 	nav {
 		display:block;
 		background-color:#040027;
@@ -114,10 +113,10 @@
   .maininfo_thirdsection {
     background-color: white;
     background-image: none;
-    padding-top:35px;
+    padding-top:55px;
     padding-bottom:70px;
     padding-right:50px;
-    height:600px;
+    height:510px;
     overflow: hidden;
   }
 
