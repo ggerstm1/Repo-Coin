@@ -66,7 +66,7 @@
   #center {
   	text-align: center;
   	margin: 0 auto;
-  	padding-top: 59px;
+  	padding-top: 65px;
   	color: white;
   }
 
@@ -93,7 +93,7 @@
   	padding-top:63px;
     padding-bottom:50px;
     padding-right:50px;
-    height:480px;
+    height:460px;
     overflow: hidden;
   }
 
@@ -102,7 +102,7 @@
     padding-top:70px;
     padding-bottom:40px;
     padding-right:50px;
-    height:490px;
+    height:440px;
   	background-image: url(../images/index_secondsection_gradient3.jpg);
   	background-position: center;
   	background-clip:inherit;
@@ -116,7 +116,7 @@
     padding-top:65px;
     padding-bottom:70px;
     padding-right:50px;
-    height:610px;
+    height:540px;
     overflow: hidden;
   }
 
