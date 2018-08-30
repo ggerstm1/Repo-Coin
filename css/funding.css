@@ -104,7 +104,7 @@ nav ul a:hover {
 
 .menu_top a {
 	color: white;
-	
+
 }
 
 .menu_top a:hover{
@@ -224,7 +224,7 @@ p {
 }
 
 a {
-	color: #78767a; 
+	color: #78767a;
 	text-decoration: underline;
 }
 
@@ -235,6 +235,12 @@ a:hover{
 
 /*FOOTER
 ------------------*/
+
+.allfooter{
+	width:50%;
+	margin:auto;
+}
+
 
 footer {
 	padding: 60px 0;
@@ -276,8 +282,8 @@ footer ul a:hover {
 	margin-top: 50px;
 	background-color: black;
 	padding:15px 0px;
-	
-	
+
+
 }
 .gold_footer {
 	color: #cbbe9d;
