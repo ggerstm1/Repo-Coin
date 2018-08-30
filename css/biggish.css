@@ -1,29 +1,38 @@
-@media only screen and (min-width: 1038px) and (max-width: 1185px) {
+@media only screen and (min-width:813px) and (max-width:1037px){
 
+
+
+    #center {
+    	text-align: center;
+    	margin: 0 auto;
+    	padding-top: 205px;
+    	color: white;
+    }
+
+    #big{
+    	font-size: 50px;
+    	font-weight: 1000;
+    	color:#cbbe9d;
+    }
+
+h2 {
+  font-size:20px;
+
+}
 
 
 h1{
   font-size:50px;
 }
 
-#big{
-  font-size: 72px;
 
-}
 
-h2 {
-	margin-top: 20px;
-	font-size:30px;
-	padding: 0;
-
-}
 
 #allfooter{
-		width:70%;
+		width:90%;
 		margin:auto;
 		display: block;
 	}
-
 }
 
 /*MAIN INFORMATION
@@ -46,7 +55,7 @@ h2 {
 .maininfo {
 	background-image: none;
 	overflow: hidden;
-	padding:150px 0px 0px 20px;
+	padding:130px 0px 0px 20px;
 	background-size: cover;
 	height: 520px;
 }
@@ -67,7 +76,7 @@ h2 {
 	background-clip:inherit;
 	background-size: cover;
 	background-position: center;
-	padding:120px 0px 0px 70px;
+	padding:100px 0px 0px 70px;
 	background-size: cover;
 	height: 520px;
 }

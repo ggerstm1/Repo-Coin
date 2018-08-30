@@ -1,3 +1,6 @@
+@media only screen and (min-width: 1186px) and (max-width: 1452px) {
+
+
 @charset "UTF-8";
 /* CSS Document */
 
@@ -16,7 +19,7 @@ body {
 
 
 #allfooter{
-		width:50%;
+		width:60%;
 		margin:auto;
 		display: block;
 	}
@@ -192,7 +195,7 @@ nav ul li a:hover {
 	background-clip:inherit;
 	background-size: cover;
 	background-position: center;
-	padding:130px 500px 0px 70px;
+	padding:120px 500px 0px 70px;
 	background-size: cover;
 	height: 520px;
 }
@@ -293,6 +296,8 @@ a:hover{
 
 /*FOOTER
 ------------------*/
+
+
 
 footer {
 	padding: 60px 0;

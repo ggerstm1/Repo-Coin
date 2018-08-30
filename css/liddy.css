@@ -27,7 +27,12 @@ h1{
 
 
 
-}
+
+#allfooter{
+		width:100%;
+		margin:auto;
+		display: block;
+	}
 }
 
 /*MAIN INFORMATION
@@ -74,12 +79,4 @@ h1{
 	padding:100px 0px 0px 70px;
 	background-size: cover;
 	height: 520px;
-}
-
-
-#allfooter{
-	display: block;
-	width:100%;
-	padding-left:0px;
-	margin:0 auto;
 }
